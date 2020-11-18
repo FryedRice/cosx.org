@@ -97,7 +97,6 @@ forum_id: 418897
 
 `$$ \Bigl(\frac{1}{2}\Bigr)! = \frac{\sqrt{\pi}}{2} $$`
 
-![大数学家欧拉](https://uploads.cosx.org/2013/01/euler.jpg)
 
 大数学家欧拉
 
